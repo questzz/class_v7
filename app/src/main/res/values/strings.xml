@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySecretDialyApp</string>
+    <string name="str_secret">The Secret Diary</string>
+</resources>
